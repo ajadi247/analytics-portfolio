@@ -1,0 +1,32 @@
+{
+  "name": "Ismaela Ramanu",
+  "title": "Data analysis & visualization",
+  "bio": "A collection of analytics projects connecting source data, clear methods and practical findings.",
+  "about": "This portfolio brings together completed analyses, interactive dashboards and reproducible project files. Each case study explains the question, the data choices and what the results mean.",
+  "links": [
+    {
+      "label": "GitHub",
+      "url": "https://github.com/ajadi247"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Mortgage & Housing Affordability",
+      "category": "Housing & finance",
+      "period": "2015\u00e2\u20ac\u201c2024",
+      "description": "How have home values, household incomes and mortgage rates changed the cost of buying a home? A county-level study with an interactive atlas and a reproducible analytical workflow.",
+      "tags": [
+        "Python",
+        "SQL",
+        "Data visualization",
+        "Public data"
+      ],
+      "url": "housing.html",
+      "report": "report.html",
+      "image": "burden_trend.png",
+      "imageAlt": "Median modeled payment burden across 2,486 counties from 2015 to 2024",
+      "stat": "12.9 \u00e2\u2020\u2019 21.8%",
+      "statLabel": "Median county payment burden, 2015\u00e2\u20ac\u201c2024"
+    }
+  ]
+}

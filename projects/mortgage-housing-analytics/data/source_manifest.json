@@ -1,0 +1,74 @@
+[
+  {
+    "file": "saipe_2015.txt",
+    "url": "https://www2.census.gov/programs-surveys/saipe/datasets/2015/2015-state-and-county/est15all.txt",
+    "retrieved": "2026-09-12",
+    "sha256": "7c96022f9f3d0630aea099ddfd677f91929c8d6566a48be185143e096090e328"
+  },
+  {
+    "file": "saipe_2016.txt",
+    "url": "https://www2.census.gov/programs-surveys/saipe/datasets/2016/2016-state-and-county/est16all.txt",
+    "retrieved": "2026-09-12",
+    "sha256": "c99b1a7c941a61d5a564554b9750705010d3424613e24e1e5c1b40b306d995c9"
+  },
+  {
+    "file": "saipe_2017.txt",
+    "url": "https://www2.census.gov/programs-surveys/saipe/datasets/2017/2017-state-and-county/est17all.txt",
+    "retrieved": "2026-09-12",
+    "sha256": "585882efe2c95bafb58f1a2dc72b0f74523a4cf2fae46d506cb69d7005ab6199"
+  },
+  {
+    "file": "saipe_2018.txt",
+    "url": "https://www2.census.gov/programs-surveys/saipe/datasets/2018/2018-state-and-county/est18all.txt",
+    "retrieved": "2026-09-12",
+    "sha256": "e5e41dfdb69b9568855440fce65e71e095d161324a25eed544369b14afeeeeee"
+  },
+  {
+    "file": "saipe_2019.txt",
+    "url": "https://www2.census.gov/programs-surveys/saipe/datasets/2019/2019-state-and-county/est19all.txt",
+    "retrieved": "2026-09-12",
+    "sha256": "f8a517bacddbe4d0561672a118d73a3209858fdf160df084264317b47b390a80"
+  },
+  {
+    "file": "saipe_2020.txt",
+    "url": "https://www2.census.gov/programs-surveys/saipe/datasets/2020/2020-state-and-county/est20all.txt",
+    "retrieved": "2026-09-12",
+    "sha256": "e78f9a376e0b02a3e8e5452adce326f99f3d8080e84c46336f147bfcf76ee4d9"
+  },
+  {
+    "file": "saipe_2021.txt",
+    "url": "https://www2.census.gov/programs-surveys/saipe/datasets/2021/2021-state-and-county/est21all.txt",
+    "retrieved": "2026-09-12",
+    "sha256": "f72a5e3a3fb96e2a32dad955cce3c0575eee4e5aa26fabd0076b1f6fa8c22fb0"
+  },
+  {
+    "file": "saipe_2022.txt",
+    "url": "https://www2.census.gov/programs-surveys/saipe/datasets/2022/2022-state-and-county/est22all.txt",
+    "retrieved": "2026-09-12",
+    "sha256": "9463452b22b1784c9ac3616b8005879ef3a7f14da0281428349c006623cc970c"
+  },
+  {
+    "file": "saipe_2023.txt",
+    "url": "https://www2.census.gov/programs-surveys/saipe/datasets/2023/2023-state-and-county/est23all.txt",
+    "retrieved": "2026-09-12",
+    "sha256": "630fa63ab002ef6e78c5dde6783619641b4c5ef480d494f2e3f1dc35e939de27"
+  },
+  {
+    "file": "saipe_2024.txt",
+    "url": "https://www2.census.gov/programs-surveys/saipe/datasets/2024/2024-state-and-county/est24all.txt",
+    "retrieved": "2026-09-12",
+    "sha256": "f49df1828732ae06c2700d939fd77ced0d1a15ccc23621c67cc9c48680d344dc"
+  },
+  {
+    "file": "mortgage_rates.csv",
+    "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=MORTGAGE30US",
+    "retrieved": "2026-09-12",
+    "sha256": "e2fbb4422a47ac0a7bb33dc199e9a41705154d9399c231e6d3b6476c74a57f74"
+  },
+  {
+    "file": "County_zhvi.csv",
+    "url": "User-provided Zillow County ZHVI export; https://www.zillow.com/research/data/",
+    "retrieved": "User attachment recovered 2026-09-12",
+    "sha256": "8ea53a5461073e62b1d7f0eb216290954246f56ba344a227956665ab19c2b271"
+  }
+]

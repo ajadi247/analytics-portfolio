@@ -1,0 +1,47 @@
+{
+  "raw_counties": 3071,
+  "county_years": 33781,
+  "eligible_county_years": 29122,
+  "balanced_counties": 2486,
+  "unmatched_income_county_years": 24,
+  "excluded_incomplete_housing_county_years_2015_2024": 1564,
+  "checks_passed": [
+    "unique FIPS and county-year keys",
+    "132 study months",
+    "52-53 weekly rates per year",
+    "income bounds ordered",
+    "mortgage reference value",
+    "360-month balance reconciliation",
+    "Shapley contributions reconcile",
+    "balanced panel has ten eligible years"
+  ],
+  "sensitivity": [
+    {
+      "minimum_months": 10,
+      "balanced_counties": 2513,
+      "median_burden_2015": 0.12938160295938692,
+      "median_burden_2024": 0.21867162018764438
+    },
+    {
+      "minimum_months": 11,
+      "balanced_counties": 2505,
+      "median_burden_2015": 0.12935455631623474,
+      "median_burden_2024": 0.21850626962709804
+    },
+    {
+      "minimum_months": 12,
+      "balanced_counties": 2486,
+      "median_burden_2015": 0.12934009522746062,
+      "median_burden_2024": 0.2183728092528518
+    }
+  ],
+  "mean_contributions_pp": {
+    "price": 10.872488225407597,
+    "rate": 6.142692714580341,
+    "income": -7.388414780273369
+  },
+  "median_county_home_growth": 0.7743510570708084,
+  "median_county_income_growth": 0.4375802963004023,
+  "median_county_payment_growth": 1.4473970426529765,
+  "share_burden_increased": 0.9895414320193081
+}
