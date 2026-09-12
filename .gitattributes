@@ -1,0 +1,2 @@
+# Preserve downloaded source bytes so source_manifest.json checksums remain valid.
+projects/mortgage-housing-analytics/data/raw/* -text
