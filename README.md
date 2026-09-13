@@ -25,4 +25,4 @@ Edit `name`, `title`, `bio`, `about`, and `links` in `docs/portfolio.json` to pe
 
 The study combines the supplied Zillow snapshot, Census SAIPE annual income and Freddie Mac/FRED mortgage rates. Across 2,486 consistently observed counties, median modeled payment burden increased from 12.9% to 21.8% during 2015–2024. Read the case study for scope, uncertainty and costs excluded.
 
-This release was prepared with AI assistance. Data providers retain their original rights and terms.
+
